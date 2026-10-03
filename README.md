@@ -6,15 +6,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a frontend developer who loves building clean, scalable, and well-tested web interfaces.  
+I'm a frontend developer who loves building clean, scalable, and well-tested web applications.  
 My core focus is **React.js** with **TypeScript**, and I care deeply about writing maintainable code backed by solid **unit testing**.
 
-Alongside frontend, I also have hands-on experience with **Python, Machine Learning, and Data Analysis** — which helps me approach problems with a broader, data-aware mindset.
 
-- 🔭 Currently building with **React + Redux + TypeScript**
-- 🧪 Big on **testing** — Jest & React Testing Library
-- 📊 Also comfortable with **Python, Pandas, NumPy, scikit-learn**
-- 🌱 Always learning, always shipping
 
 ---
 

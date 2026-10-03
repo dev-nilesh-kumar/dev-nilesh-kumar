@@ -64,7 +64,7 @@ Alongside frontend, I also have hands-on experience with **Python, Machine Learn
   <a href="https://github.com/dev-nilesh-kumar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/nilesh-kumar-suryavanshi-48411b286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
